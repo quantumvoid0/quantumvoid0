@@ -18,9 +18,3 @@
 [![Matrix](https://img.shields.io/badge/Matrix-@quantumvoid0:matrix.org-03DAC6?style=for-the-badge&logo=matrix&logoColor=white)]()
 
 ---
-
-> [!NOTE]
-> current project : android software development
-
-> [!NOTE]
-> ongoing projects : wayland window manager

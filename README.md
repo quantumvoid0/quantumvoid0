@@ -5,3 +5,5 @@
 | what do i do? |
 |:-|
 | <p>I like to automate stuff and build software for linux, android, and the web</p> |
+
+checkout my [gitlab stuff](https://gitlab.com/quantumvoid0)
